@@ -1,0 +1,6 @@
+{
+  "API_IP": "localhost",
+  "API_PORT": "443",
+  "CHAT_HUB_IP": "localhost",
+  "CHAT_HUB_PORT": "443"
+}
